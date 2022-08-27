@@ -5,8 +5,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/harithoman#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/harithoman#gh-dark-mode-only)
 &nbsp;&nbsp;
-## Installation:
+# Installation:
 &nbsp;&nbsp;
-# Windows:
+## Windows:
 <img src="img/install.png">
 <img src="img/word.png">
