@@ -6,6 +6,7 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/harithoman#gh-dark-mode-only)
 &nbsp;&nbsp;
 ## Installation:
+&nbsp;&nbsp;
 # Windows:
 <img src="img/install.png">
 <img src="img/MOword.png">
