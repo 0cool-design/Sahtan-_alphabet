@@ -9,4 +9,4 @@
 &nbsp;&nbsp;
 # Windows:
 <img src="img/install.png">
-<img src="img/MOword.png">
+<img src="img/word.png">
